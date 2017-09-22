@@ -1,0 +1,6 @@
+#remove .idea
+.idea/
+
+#node_modules depandency remove
+node_modules/
+dist/*
